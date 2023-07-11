@@ -6,22 +6,23 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## text datasets
 
-- [BC5CDR](https://paperswithcode.com/dataset/bc5cdr):1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions (named entity recognition)
+- [BC5CDR](https://paperswithcode.com/dataset/bc5cdr): 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions (named entity recognition)
 - [BioCreative V](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/): BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
-- [BioRxiv XML](https://www.biorxiv.org/tdm) - Bulk access to the full text of bioRxiv articles for the purposes of text and data mining (TDM) is available via a dedicated Amazon S3 resource.
+- [BioRxiv XML](https://www.biorxiv.org/tdm): Bulk access to the full text of bioRxiv articles for the purposes of text and data mining (TDM) is available via a dedicated Amazon S3 resource.
 - [ChemTables](https://doi.org/10.17632/g7tjh7tbrj.3): 788 chemical patent tables with labels of their content type. [Built for semantic classification of table type](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00568-2#Abs1). Licensed under CC BY NC 3.0.
 - [Elsevier Corpus](https://elsevier.digitalcommonsdata.com/datasets/zm33cdndxs/3): This is a corpus of 40k (40,001) open access (OA) CC-BY articles from across Elsevier’s journals represent the first cross-discipline research of data at this scale to support NLP and ML research.
-- [Europe PMC](https://europepmc.org/downloads) - Bulk download of full text and SI of > 5 million articles.
+- [Europe PMC](https://europepmc.org/downloads): Bulk download of full text and SI of > 5 million articles.
 - [IUPAC Gold Book](https://goldbook.iupac.org/)
 - [LibreText](https://chem.libretexts.org/): Open-access chemistry textbook.
-- [MedRxiv XML](https://www.medrxiv.org/tdm) - Text and data mining is possible via dedicated Amazon S3 resource.
+- [MedRxiv XML](https://www.medrxiv.org/tdm): Text and data mining is possible via dedicated Amazon S3 resource.
 - [NLM literature archive](https://ftp.ncbi.nlm.nih.gov/pub/litarch/): NLM LitArch (NLM Literature Archive) is a digital archive for books, documents, and articles in the fields of life science, medicine, and healthcare at the National Institutes of Health. Also accessible via [NCBI bookshelf](https://www.ncbi.nlm.nih.gov/books/). See also the [NLMChem](https://ftp.ncbi.nlm.nih.gov/pub/lu/NLMChem/), a manually annotated full-text resource on chemicals in the biomedical literature. It contains 150 full-text journal articles selected both to be rich in chemical mentions and for articles where human annotation was expected to be most valuable. However, I saw NLM literature archive already on the list but wasn't sure if it included this dataset
-- [OpenStax](https://openstax.org/) Free textbooks, including [Chemistry 2e](https://openstax.org/details/books/chemistry-2e), which is released under CC-BY 4.0.
+- [OpenStax](https://openstax.org/): Free textbooks, including [Chemistry 2e](https://openstax.org/details/books/chemistry-2e), which is released under CC-BY 4.0.
 - [PubChemSTM](https://arxiv.org/abs/2212.10789): 281K chemical structure and text pairs
 - [PubMed central](https://www.ncbi.nlm.nih.gov/pmc/): free full-text archive
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): abstracts and outlinks
 - [PubMedQA](https://pubmedqa.github.io/): answer research questions with yes/no/maybe using abstracts (1k expert labeled, 61.2k unlabeled and 211.3k artificially generated QA instances).
 - [S2ORC](https://github.com/allenai/s2orc): The Semantic Scholar Open Research Corpus.  81.1M English-language academic papers spanning many academic disciplines  largest publicly-available collection of machine-readable academic text). Released under CC BY-NC 4.0.
+- [Open Textbook Library](https://open.umn.edu/opentextbooks/subjects/chemistry): Open textbooks licensed by authors and publishers to be freely used and adapted.
 
 ## structures 
 
